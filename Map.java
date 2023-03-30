@@ -10,3 +10,8 @@ class Map {
  
 }
     
+          OUTPUT
+  
+ {python=1, java=2, c=3}
+
+
